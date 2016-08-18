@@ -1,0 +1,11 @@
+{
+	"atomic_save": false,
+	"font_size": 13,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": true,
+	"save_on_focus_lost": true
+}
