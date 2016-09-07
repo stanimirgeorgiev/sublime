@@ -1,11 +1,26 @@
 {
 	"atomic_save": false,
-	"font_size": 13,
+	"auto_complete_cycle": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/User/SublimeLinter/Next (SL).tmTheme",
+	"font_size": 15,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"open_files_in_new_window": true,
-	"save_on_focus_lost": true
+	"save_on_focus_lost": true,
+	"word_wrap": "false"
 }

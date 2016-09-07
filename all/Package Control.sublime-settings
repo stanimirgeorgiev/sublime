@@ -5,9 +5,32 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JavaScript Patterns",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"jQuery Snippets pack",
+		"List stylesheet variables",
 		"Package Control",
 		"Package Syncing",
-		"SideBarEnhancements"
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS Snippets",
+		"Sass",
+		"SASS Build",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"SublimeOnSaveBuild",
+		"TernJS"
 	]
 }
